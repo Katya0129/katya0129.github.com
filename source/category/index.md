@@ -4,4 +4,4 @@ type: "categories"
 comments: false
 ---
 
-- [其他](/categories/uncategorized/)
+- [头条](/categories/头条/)
