@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yourname</title>
+  <title>Katya</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yourname.github.io/"/>
-  <updated>2020-07-21T02:03:58.665Z</updated>
+  <updated>2020-07-21T02:11:10.063Z</updated>
   <id>https://yourname.github.io/</id>
   
   <author>
-    <name>Yourname</name>
+    <name>Katya</name>
     
   </author>
   
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://yourname.github.io/Hello-World/"/>
     <id>https://yourname.github.io/Hello-World/</id>
-    <published>2020-07-21T02:03:58.661Z</published>
-    <updated>2020-07-21T02:03:58.665Z</updated>
+    <published>2020-07-21T02:11:10.063Z</published>
+    <updated>2020-07-21T02:11:10.063Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><a id="more"></a>]]></content>
     
